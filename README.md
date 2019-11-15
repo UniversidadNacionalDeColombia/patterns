@@ -18,3 +18,5 @@ Patrones de diseño
 >* En el 4to punto:
 > Se implemento dos antipatrones:
 > >* The Blob
+> > En el cual se trabajo con una clase que se llama TheBlop en donde se ejecuta parte de la logica que se tiene.<br/>
+> > Se cuenta con una clase principal: MainControllerClass la cual es la clase que monopoliza todo el procesamiento, esta cuenta con una gran cantidad de metodos que controlan todo el procesamiento, donde las otras clases basicamente solo encapsulan datos, y en la que todas las responsabilidades se le estan asignando a esta clase
