@@ -15,4 +15,6 @@ Patrones de diseño
 > Cada una de las clases style de medellin llenan los datos correspondientes de las clases y agregan ingredientes locales, ademas algunas de ellas modifican algunos meotodos como por ejemplo el de coccion.
 >* En el 3er punto:
 > Es un builder de combos para canciones y peliculas. Hay 2 diferentes canciones y 2 diferentes peliculas, el builder construye el combo teniendo como los items basicos a las peliculas y las canciones, al final da un combo con la descripcion de los 2 productos y precio.
->
+>* En el 4to punto:
+> Se implemento dos antipatrones:
+> >* The Blob
