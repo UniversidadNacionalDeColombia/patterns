@@ -18,3 +18,6 @@ Patrones de diseño
 >* En el 4to punto:
 > Se implemento dos antipatrones:
 > >* The Blob
+> >* Boat Anchor
+>* En el 5to punto:
+> Se realizo una pequeña app que calcula el precio de los cafes con los ingredientes que los clientes seleccionan siguiendo el decorator pattern
