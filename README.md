@@ -1,4 +1,4 @@
-﻿# patterns
+﻿# Patterns
 Patrones de diseño
 ## Integrantes:
 >* Jaime Estupiñan
