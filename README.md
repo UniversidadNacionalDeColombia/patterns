@@ -20,3 +20,7 @@ Patrones de diseño
 > >* The Blob
 > > En el cual se trabajo con una clase que se llama TheBlop en donde se ejecuta parte de la logica que se tiene.<br/>
 > > Se cuenta con una clase principal: MainControllerClass la cual es la clase que monopoliza todo el procesamiento, esta cuenta con una gran cantidad de metodos que controlan todo el procesamiento, donde las otras clases basicamente solo encapsulan datos, y en la que todas las responsabilidades se le estan asignando a esta clase
+> >* Boat Anchor
+> > Se creo una pequeña calculadora la cual va a presentar varios casos de Boat Anchor.<br/>
+>* En el 5to punto:
+> Se realizo una pequeña app que calcula el precio de los cafes con los ingredientes que los clientes seleccionan siguiendo el decorator pattern
